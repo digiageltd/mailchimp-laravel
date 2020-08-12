@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Skovmand\\Mailchimp\\": "src/"
+      "digiageltd\\Mailchimp\\": "src/"
     }
   },
   "abandoned": false
